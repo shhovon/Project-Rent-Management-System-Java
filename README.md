@@ -1,1 +1,1 @@
-# Rent-Management-System-JAVA
+# Rent-Management-System-Java
